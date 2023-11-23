@@ -225,7 +225,7 @@ rich==13.4.1
 rsa==4.9
 schedule==1.2.0
 scikit-image==0.20.0
-scikit-learn==1.1.2
+scikit-learn==1.3.2
 scipy==1.10.1
 selectivesearch==0.4
 selenium==4.9.1
